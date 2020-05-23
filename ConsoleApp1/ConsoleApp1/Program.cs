@@ -14,7 +14,7 @@ namespace ConsoleApp1
             //second edit
             //third in VS
             //compare
-            //new comment
+            //new comment from git
         }
     }
 }
