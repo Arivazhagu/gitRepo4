@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //edited in git
             //second edit
+            //third in VS
         }
     }
 }
